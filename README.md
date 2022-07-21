@@ -21,7 +21,7 @@ Esse comando vai executar a spider e escrever a saída no arquivo output.csv
 
 Outra forma de executar o scraper é atraves do módulo *main.py*. Essa forma é mais robusta porque além do scraper já faz o tratamento dos dados de saída. Para executar ir ao diretório empregos/ e executar o seguinte comando.
 
-    python -m main.py 
+    python -m main
     
 Vai ser criado um arquivo de saída na pasta empregos chamado *bne.csv* com os dados já processados.
 
